@@ -142,41 +142,8 @@ Executive PDF Report
 - Improved AI workflow
 - Dataset context management
 - Conversation memory
-- Production-ready architecture
-
----
-
-## 📸 Screenshots
-
-### Dataset Upload
-
-*(Insert screenshot here)*
-
----
-
-### Data Quality Assessment
-
-*(Insert screenshot here)*
-
----
-
-### Interactive Dashboard
-
-*(Insert screenshot here)*
-
----
-
-### AI Data Analyst
-
-*(Insert screenshot here)*
-
----
-
-### Executive Report
-
-*(Insert screenshot here)*
-
----
+- Production-ready
+- 
 
 ## 🎥 Demonstration
 
@@ -209,7 +176,6 @@ This project demonstrates practical skills in:
 
 ## 🔮 Future Improvements
 
-- Hugging Face deployment
 - Streamlit web application
 - Advanced LLM integration
 - Retrieval-Augmented Generation (RAG)
