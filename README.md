@@ -1,6 +1,6 @@
 # 🤖 DataPilot AI Agent
 
-> An AI-powered data analyst built entirely in Google Colab that automates data quality assessment, exploratory data analysis (EDA), business intelligence reporting, interactive dashboards, natural language querying, and executive PDF report generation.
+> An AI-powered data analyst built entirely in Python that automates data quality assessment, exploratory data analysis (EDA), business intelligence reporting, interactive dashboards, natural language querying, and executive PDF report generation.
 
 ---
 
