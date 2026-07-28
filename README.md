@@ -190,8 +190,9 @@ This project demonstrates practical skills in:
 
 **Robert Chonge**
 
-First Class BSc Data Science and Systems Degree Holder,University Of Zimbabwe.
-Passionate about Artificial Intelligence, Machine Learning, Data Science, and Business Intelligence.
+-First Class BSc Data Science and Systems Degree Holder,University Of Zimbabwe.
+
+-Passionate about Artificial Intelligence, Machine Learning, Data Science and Business Intelligence.
 
 ---
 
